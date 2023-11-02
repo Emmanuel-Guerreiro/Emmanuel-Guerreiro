@@ -6,7 +6,7 @@ I've been doing some freelance jobs besides my studies for the past few years.
 
 
 ## Technologies
-I've some experience with technologies as
+Some of the technologies I've experienced with:
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/></code>
